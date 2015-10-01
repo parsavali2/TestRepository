@@ -1,0 +1,17 @@
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/parsavali/Projects/phoneword/phoneword/bin/Debug/phoneword.dll.mdb
+/Users/parsavali/Projects/phoneword/phoneword/bin/Debug/phoneword.dll
+/Users/parsavali/Projects/phoneword/phoneword/bin/Debug/com.companyname.phoneword.apk
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/android/bin/com.companyname.phoneword.apk
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/res/layout/main.xml
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/res/values/strings.xml
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/res/drawable-hdpi/icon.png
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/res/drawable-mdpi/icon.png
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/R.cs.flag
+/Users/parsavali/Projects/phoneword/phoneword/bin/Debug/com.companyname.phoneword-Signed.apk
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/uploadflags.txt
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/phoneword.dll
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/phoneword.dll.mdb

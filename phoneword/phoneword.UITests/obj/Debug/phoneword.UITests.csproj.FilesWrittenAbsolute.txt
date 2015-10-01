@@ -1,0 +1,7 @@
+/Users/parsavali/Projects/phoneword/phoneword.UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/parsavali/Projects/phoneword/phoneword.UITests/bin/Debug/phoneword.UITests.dll.mdb
+/Users/parsavali/Projects/phoneword/phoneword.UITests/bin/Debug/phoneword.UITests.dll
+/Users/parsavali/Projects/phoneword/phoneword.UITests/obj/Debug/phoneword.UITests.dll
+/Users/parsavali/Projects/phoneword/phoneword.UITests/obj/Debug/phoneword.UITests.dll.mdb
+/Users/parsavali/Projects/phoneword/phoneword.UITests/bin/Debug/nunit.framework.dll
+/Users/parsavali/Projects/phoneword/phoneword.UITests/bin/Debug/Xamarin.UITest.dll

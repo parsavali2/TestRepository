@@ -1,0 +1,8 @@
+phoneword.MainActivity, phoneword;md5d7766a8bf38d1d4ffbcdacd258ce318b.MainActivity
+phoneword.MainActivity, phoneword, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d7766a8bf38d1d4ffbcdacd258ce318b.MainActivity
+phoneword.MainActivity;md5d7766a8bf38d1d4ffbcdacd258ce318b.MainActivity
+phoneword.MainActivity;md5d7766a8bf38d1d4ffbcdacd258ce318b.MainActivity
+phoneword.CallHistoryActivity, phoneword;md5d7766a8bf38d1d4ffbcdacd258ce318b.CallHistoryActivity
+phoneword.CallHistoryActivity, phoneword, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d7766a8bf38d1d4ffbcdacd258ce318b.CallHistoryActivity
+phoneword.CallHistoryActivity;md5d7766a8bf38d1d4ffbcdacd258ce318b.CallHistoryActivity
+phoneword.CallHistoryActivity;md5d7766a8bf38d1d4ffbcdacd258ce318b.CallHistoryActivity

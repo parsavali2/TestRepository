@@ -1,0 +1,6 @@
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/assemblies/phoneword.dll
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/assemblies/System.dll
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/assemblies/System.Xml.dll
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/assemblies/Mono.Android.dll
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/assemblies/System.Core.dll
+/Users/parsavali/Projects/phoneword/phoneword/obj/Debug/assemblies/mscorlib.dll
